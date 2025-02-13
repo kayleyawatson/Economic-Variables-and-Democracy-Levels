@@ -16,13 +16,13 @@ Ewe, Koh. 2023. “Elections around the World in 2024.” TIME. December 28, 202
 
 EIU. 2023. “Democracy Index 2023.” Economist Intelligence Unit. 2023. https://www.eiu.com/n/campaigns/democracy-index-2023/.
 
+Freedom House. 2024. Freedom in the World. Freedom House. https://freedomhouse.org/report/freedom-world.
+
 Huber, Evelyne, Dietrich Rueschemeyer, and John D Stephens. 1993. “The Impact of Economic 
 
 “The 2024 Global Elections Super-Cycle | International IDEA.” n.d. www.idea.int. International IDEA. https://www.idea.int/initiatives/the-2024-global-elections-supercycle.
 
 Williamson, Vanessa. 2024. “Democracy Is Good for the Economy. Can Business Defend It?” 
-
-Freedom House. 2024. Freedom in the World. Freedom House. https://freedomhouse.org/report/freedom-world.
 
 UN Data. 2023. Gini Index. UN Data. https://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3ASI.POV.GINI.
 
