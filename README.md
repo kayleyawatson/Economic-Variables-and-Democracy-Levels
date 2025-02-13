@@ -8,6 +8,8 @@ Acemoglu, Daron, Suresh Naidu, Pascual Restrepo, and James A. Robinson. 2019. �
 
 ACLED. 2024. Data & Tools. ACLED. https://acleddata.com/data/.
 
+Brookings. April 29, 2024. https://www.brookings.edu/articles/democracy-is-good-for-the-economy-can-business-defend-it/.
+
 Development on Democracy.” Journal of Economic Perspectives 7 (3): 71–86.https://doi.org/10.1257/jep.7.3.71.
 
 Ewe, Koh. 2023. “Elections around the World in 2024.” TIME. December 28, 2023. https://time.com/6550920/world-elections-2024/.
@@ -19,8 +21,6 @@ Huber, Evelyne, Dietrich Rueschemeyer, and John D Stephens. 1993. “The Impact 
 “The 2024 Global Elections Super-Cycle | International IDEA.” n.d. www.idea.int. International IDEA. https://www.idea.int/initiatives/the-2024-global-elections-supercycle.
 
 Williamson, Vanessa. 2024. “Democracy Is Good for the Economy. Can Business Defend It?” 
-
-Brookings. April 29, 2024. https://www.brookings.edu/articles/democracy-is-good-for-the-economy-can-business-defend-it/.
 
 Freedom House. 2024. Freedom in the World. Freedom House. https://freedomhouse.org/report/freedom-world.
 
